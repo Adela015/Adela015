@@ -6,4 +6,9 @@ Hi, I'm Adela 🐱‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adela015&layout=compact)](https://github.com/Adela015/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adela015)](https://github.com/Adela015/github-readme-stats)
+<a href="https://github.com/Adela015/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adela015&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Adela015/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adela015&repo=convoychat" />
+</a>
