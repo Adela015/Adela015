@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Adela 🐱‍💻</h1>
 
-- I’m currently working on **Frontend projects and now I will start with Data Science**
+- I’m currently working on **Frontend projects and now I will start with Data Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
