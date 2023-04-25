@@ -1,12 +1,7 @@
 
 <h1 align="center">Hola, mi nombre es Adela 🐱‍💻</h1>
 
-- El Desarrollo Frontend es mi pasatiempo y actualmente estoy estudiando Ciencias de Datos.
-
-<h3 align="left">LinkedIn:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/mwlite/in/adela-cervantes-ortiz-5659b2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/adela-cervantes-ortiz-5659b2211" height="30" width="40" /></a>
-</p>
+- El Desarrollo Frontend es mi pasatiempo 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
