@@ -1,5 +1,5 @@
-# 💫 Acerca de mi:
-👋 ¡Hola! Soy Adela, una estudiante apasionada del desarrollo de software.<br><br>💻 Actualmente, estoy enfocada en aprender y mejorar mis habilidades en programación, explorando diferentes tecnologías y lenguajes para crecer como desarrolladora. Me encanta enfrentarme a nuevos retos y encontrar soluciones creativas a problemas complejos.<br><br>📚 Soy una persona muy aplicada y autodidacta, siempre busco aprender algo nuevo y mantenerme actualizada en el mundo de la tecnología. Creo firmemente en la importancia de la constancia y la dedicación para alcanzar metas.
+# 👋 ¡Hola! Soy Adela
+Estudiante apasionada del desarrollo de software.<br><br>💻 Actualmente, estoy enfocada en aprender y mejorar mis habilidades en programación, explorando diferentes tecnologías y lenguajes para crecer como desarrolladora. Me encanta enfrentarme a nuevos retos y encontrar soluciones creativas a problemas complejos.<br><br>📚 Soy una persona muy aplicada y autodidacta, siempre busco aprender algo nuevo y mantenerme actualizada en el mundo de la tecnología. Creo firmemente en la importancia de la constancia y la dedicación para alcanzar metas.
 
 
 # 💻 Tech Stack:
