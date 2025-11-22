@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Adela
+# 👋 ¡Hola! Soy Adela Cervantes Ortiz
 Estudiante apasionada del desarrollo de software.<br><br>💻 Actualmente, estoy enfocada en aprender y mejorar mis habilidades en programación, explorando diferentes tecnologías y lenguajes para crecer como desarrolladora. Me encanta enfrentarme a nuevos retos y encontrar soluciones creativas a problemas complejos.
 
 
