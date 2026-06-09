@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Adela Cervantes Ortiz
+# 👋 ¡Hola! Soy Adela
 Estudiante de Ciencia de Datos | Apasionada por el análisis y la visualización de datos<br>
 Me apasiona encontrar historias ocultas dentro de los números y ayudar a que las personas tomen mejores decisiones gracias a los datos.
 
